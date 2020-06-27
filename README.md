@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
